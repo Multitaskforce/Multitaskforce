@@ -5,3 +5,4 @@ Merhabalar,
 
 Ben MTFU kurucu üyelerinden Kadir Demir
 yaklaşık 7 aydır takım oyuncusuyum ve bu bağlamda ileri düzeydi DMR kullanıcısıyım.
+https://www.instagram.com/kadirberkdemir/?igsh=dGhvNGZybmZ1c29k&utm_source=qr#
