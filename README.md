@@ -238,7 +238,7 @@
 
           <div style="margin-top: 10px; display:flex; gap:10px; flex-wrap:wrap;">
 
-            <a href="https://instagram.com/KULLANICI_ADI_1" style="text-decoration:none;">
+            <a href="https://instagram.com/kadirberkdemir" style="text-decoration:none;">
               <div style="
                 padding: 9px 12px;
                 border-radius: 14px;
@@ -248,10 +248,10 @@
                 font-weight: 900;
                 border: 1px solid rgba(255,255,255,0.22);
                 letter-spacing:0.4px;
-              ">INSTAGRAM · 01</div>
+              ">INSTAGRAM KİŞİSEL </div>
             </a>
 
-            <a href="https://instagram.com/KULLANICI_ADI_2" style="text-decoration:none;">
+            <a href="https://instagram.com/multitaskforceunit" style="text-decoration:none;">
               <div style="
                 padding: 9px 12px;
                 border-radius: 14px;
@@ -261,10 +261,10 @@
                 font-weight: 900;
                 border: 1px solid rgba(255,255,255,0.22);
                 letter-spacing:0.4px;
-              ">INSTAGRAM · 02</div>
+              ">INSTAGRAM TAKIM MTFU</div>
             </a>
 
-            <a href="https://www.youtube.com/@KULLANICI_ADI" style="text-decoration:none;">
+            <a href="https://www.youtube.com/@kadirberkdemir8914" style="text-decoration:none;">
               <div style="
                 padding: 9px 12px;
                 border-radius: 14px;
