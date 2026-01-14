@@ -155,7 +155,7 @@
             border: 1px solid rgba(255,255,255,0.10);
             color: rgba(255,255,255,0.92);
             font-size: 12px;
-          "><b style="color:#c9ff74;">POSITION</b> : TEAM LEADER</div>
+          "><b style="color:#c9ff74;">POSITION</b> : TEAM LEADER ASS.</div>
         </div>
 
         <!-- COMMAND / BIO -->
