@@ -282,7 +282,31 @@
           <div style="margin-top: 10px; color: rgba(255,255,255,0.70); font-size: 11.5px;">
           </div>
         </div>
+<!-- CLASSIFICATION / DISCLAIMER -->
+<div style="
+  margin-top: 16px;
+  padding: 12px 14px;
+  border-radius: 14px;
+  border: 1px dashed rgba(201,255,116,0.35);
+  background: rgba(201,255,116,0.06);
+  color: rgba(255,255,255,0.85);
+  font-size: 11.5px;
+  line-height: 1.55;
+  text-align:left;
+">
+  <div style="font-weight:900; color:#c9ff74; letter-spacing:0.6px;">
+    CLASSIFICATION
+  </div>
 
+  <div style="margin-top:6px;">
+    UNCLASSIFIED · AIRSOFT / MILSIM CONCEPT PROFILE
+  </div>
+
+  <div style="margin-top:6px;">
+    NOT AN OFFICIAL U.S. MILITARY IDENTIFICATION CARD.<br/>
+    FOR TRAINING, SCENARIO & REPRESENTATIONAL USE ONLY.
+  </div>
+</div>
         <!-- FOOTER -->
         <div style="
           margin-top: 14px;
