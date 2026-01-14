@@ -280,7 +280,6 @@
           </div>
 
           <div style="margin-top: 10px; color: rgba(255,255,255,0.70); font-size: 11.5px;">
-            Username alanlarını sen dolduracaksın.
           </div>
         </div>
 
