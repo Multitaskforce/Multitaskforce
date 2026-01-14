@@ -58,7 +58,7 @@
       <div style="flex: 0 0 240px; position: relative;">
 
         <!-- Team photo (small corner) -->
-        <img src="assets/team-photo.jpg" alt="Team Photo" style="
+        <img src="assets/team-photo.jpeg" alt="Team Photo" style="
           position:absolute;
           top: 0; right: 0;
           width: 92px; height: 60px; object-fit: cover;
@@ -68,7 +68,7 @@
           box-shadow: 0 10px 24px rgba(0,0,0,0.35);
         "/>
 
-        <img src="assets/airsoft-me.jpg" alt="Operator Photo" style="
+        <img src="assets/airsoft-me.jpeg" alt="Operator Photo" style="
           width: 240px; height: 300px; object-fit: cover;
           border-radius: 16px;
           border: 1px solid rgba(255,255,255,0.14);
@@ -106,7 +106,7 @@
           <div style="color:#c9ff74; font-weight: 900; font-size: 12px; letter-spacing:0.5px;">
             PRIMARY PLATFORM (REF)
           </div>
-          <img src="assets/primary-weapon.jpg" alt="Primary" style="
+          <img src="assets/primary-weapon.jpeg" alt="Primary" style="
             margin-top: 8px;
             width: 100%; height: 78px; object-fit: cover;
             border-radius: 14px;
