@@ -168,25 +168,77 @@
           color: rgba(255,255,255,0.95);
         ">
           <div style="font-weight: 900; color:#c9ff74; letter-spacing:0.6px; font-size: 13px;">
-            COMMAND & STATUS
-          </div>
-          <div style="margin-top:10px; font-size: 12.5px; line-height: 1.55;">
-            • <b>Founding Member</b> (Core staff) <br/>
-            • <b>Vice Team Captain</b> (Deputy) <br/>
-            • <b>VIPER-1</b> · Team Leader & Member
-          </div>
+           <!-- COMMAND + PERSONNEL WRAPPER -->
+<div style="
+  margin-top: 14px;
+  display: flex;
+  gap: 14px;
+  align-items: stretch;
+">
 
-          <div style="
-            margin-top: 12px;
-            padding-top: 12px;
-            border-top: 1px solid rgba(255,255,255,0.10);
-            color: rgba(255,255,255,0.82);
-            font-size: 11.5px;
-          ">
-            <span style="color:#c9ff74; font-weight:900;">NOTE:</span>
-            MTFU structure: <b>10 main elements</b>.
-          </div>
-        </div>
+  <!-- COMMAND & STATUS -->
+  <div style="
+    flex: 1;
+    padding: 16px 16px;
+    border-radius: 18px;
+    background: linear-gradient(90deg, rgba(201,255,116,0.22), rgba(201,255,116,0.04));
+    border: 1px solid rgba(201,255,116,0.30);
+    color: rgba(255,255,255,0.95);
+  ">
+    <div style="font-weight: 900; color:#c9ff74; letter-spacing:0.6px; font-size: 13px;">
+      COMMAND & STATUS
+    </div>
+
+    <div style="margin-top:10px; font-size: 12.5px; line-height: 1.55;">
+      • <b>Founding Member</b> (Core staff) <br/>
+      • <b>Vice Team Captain</b> (Deputy) <br/>
+      • <b>VIPER-1</b> · Team Leader & Member
+    </div>
+
+    <div style="
+      margin-top: 12px;
+      padding-top: 12px;
+      border-top: 1px solid rgba(255,255,255,0.10);
+      color: rgba(255,255,255,0.82);
+      font-size: 11.5px;
+    ">
+      <span style="color:#c9ff74; font-weight:900;">NOTE:</span>
+      MTFU structure: <b>10 main elements</b>.
+    </div>
+  </div>
+
+  <!-- PERSONNEL DATA (SAĞ TARAF) -->
+  <div style="
+    flex: 1;
+    padding: 16px 16px;
+    border-radius: 18px;
+    background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(255,255,255,0.10);
+    color: rgba(255,255,255,0.92);
+  ">
+    <div style="font-weight: 900; color:#c9ff74; letter-spacing:0.6px; font-size: 13px;">
+      PERSONNEL DATA
+    </div>
+
+    <div style="
+      margin-top: 10px;
+      display:grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+      font-size: 12px;
+    ">
+      <div><b style="color:#c9ff74;">HEIGHT</b> : 6'3" (190 cm)</div>
+      <div><b style="color:#c9ff74;">WEIGHT</b> : 220 lb (100 kg)</div>
+      <div><b style="color:#c9ff74;">BLOOD TYPE</b> : B Rh+</div>
+      <div><b style="color:#c9ff74;">STATUS</b> : FIT · ACTIVE</div>
+    </div>
+
+    <div style="margin-top: 10px; font-size: 11.5px; color: rgba(255,255,255,0.70);">
+      Medical data listed for training & airsoft reference only.
+    </div>
+  </div>
+
+</div>
 
         <!-- MISSION AREAS -->
         <div style="
